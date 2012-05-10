@@ -53,7 +53,7 @@
 ================================================== */
 	body {
 		background: #000;
-		font: 14px/21px "CenturyGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 14px/21px "CenturyGothic", "CenturyGothic", Century Gothic, Helvetica, Arial, sans-serif;
 		color: #fff;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
